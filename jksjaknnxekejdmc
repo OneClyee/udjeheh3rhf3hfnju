@@ -7,45 +7,45 @@ print(Fore.GREEN + "                                         generating...")
 time.sleep(3)
 # Lista de textos para elegir aleatoriamente
 textos = ["""
-                                               nombre: Elfiafsd
+                                               usuario: Elfiafsd
                                                contraseña: elpapaics3f
                                                id: 4533827208""",
  """
-                                               nombre: elfifassjajs3
+                                               usuario: elfifassjajs3
                                                contraseña: nomamecdc
                                                id: 4533816975""", 
  """
-                                               nombre: MadBlack9183
+                                               usuario: MadBlack9183
                                                contraseña: Shcmuy33x_x
                                                id: 13156644943""", 
  """
-                                               nombre: papuknal7
+                                               usuario: papuknal7
                                                contraseña: elfachaa23ntc
                                                id: 4535890871""", 
  """
-                                               nombre: marianitta58
+                                               usuario: marianitta58
                                                contraseña: 647872974
                                                id: 4535896263""", 
  """
-                                               nombre: fandedahoodd
+                                               usuario: fandedahoodd
                                                contraseña: soyfandedahoodxd24d
                                                id: 4535909523""",
  """
-                                               nombre: test
-                                               contraseña: pablitoinsano
-                                               id: """,
+                                               usuario: teresaaaaavvm
+                                               contraseña: elmascapitoxdd
+                                               id: 4543804623""",
  """
-                                               nombre: test
-                                               contraseña: pablitoinsano
-                                               id: """,
+                                               usuario: ElMasCapltoo
+                                               contraseña: soyelmascapito3000
+                                               id: 4543814677""",
  """
-                                               nombre: xdbrooo
-                                               contraseña: pablitoinsano
-                                               id: """,
+                                               usuario: ElFirulaiss2
+                                               contraseña: alejandroope3mn
+                                               id: 4543820762""",
  """
-                                               nombre: xdbrooo
-                                               contraseña: pablitoinsano
-                                               id: """,]
+                                               usuario: Senai_cc
+                                               contraseña: IamSenai´s
+                                               id: 4543823758""",]
 
 # Elegir un texto aleatorio de la lista
 texto_aleatorio = random.choice(textos)
