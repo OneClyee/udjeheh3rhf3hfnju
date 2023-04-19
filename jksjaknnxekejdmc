@@ -45,8 +45,12 @@ textos = ["""
  """
                                                usuario: Senai_cc
                                                contraseña: IamSenai´s
-                                               id: 4543823758""",]
-
+                                               id: 4543823758""",
+ """
+                                               usuario: XnifeTc
+                                               contraseña: AinAAM2c
+                                               id: 4543842430""",]
+                                              
 # Elegir un texto aleatorio de la lista
 texto_aleatorio = random.choice(textos)
 
