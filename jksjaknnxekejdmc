@@ -1,0 +1,54 @@
+import random
+import time
+from colorama import init, Fore, Back, Style
+
+time.sleep(1)
+print(Fore.GREEN + "                                         generating...")
+time.sleep(3)
+# Lista de textos para elegir aleatoriamente
+textos = ["""
+                                               nombre: Elfiafsd
+                                               contraseña: elpapaics3f
+                                               id: 4533827208""",
+ """
+                                               nombre: elfifassjajs3
+                                               contraseña: nomamecdc
+                                               id: 4533816975""", 
+ """
+                                               nombre: MadBlack9183
+                                               contraseña: Shcmuy33x_x
+                                               id: 13156644943""", 
+ """
+                                               nombre: papuknal7
+                                               contraseña: elfachaa23ntc
+                                               id: 4535890871""", 
+ """
+                                               nombre: marianitta58
+                                               contraseña: 647872974
+                                               id: 4535896263""", 
+ """
+                                               nombre: fandedahoodd
+                                               contraseña: soyfandedahoodxd24d
+                                               id: 4535909523""",
+ """
+                                               nombre: test
+                                               contraseña: pablitoinsano
+                                               id: """,
+ """
+                                               nombre: test
+                                               contraseña: pablitoinsano
+                                               id: """,
+ """
+                                               nombre: xdbrooo
+                                               contraseña: pablitoinsano
+                                               id: """,
+ """
+                                               nombre: xdbrooo
+                                               contraseña: pablitoinsano
+                                               id: """,]
+
+# Elegir un texto aleatorio de la lista
+texto_aleatorio = random.choice(textos)
+
+# Imprimir el texto aleatorio
+print(texto_aleatorio)
